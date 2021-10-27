@@ -1,0 +1,1 @@
+export const apiServe = 'http://localhost:8000'

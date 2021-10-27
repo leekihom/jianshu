@@ -1,0 +1,73 @@
+{
+    "success": true,
+    "data": {
+        "topicList":[{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "https://images.pexels.com/photos/46024/pexels-photo-46024.jpeg"
+        },{
+            "id": 2,
+            "title": "简书电影",
+            "imgUrl": "https://images.pexels.com/photos/46024/pexels-photo-46024.jpeg" 
+        },{
+            "id": 3,
+            "title": "旅行",
+            "imgUrl": "https://images.pexels.com/photos/46024/pexels-photo-46024.jpeg"    
+        }],
+        "articleList":[{
+            "id": 1,
+            "title": "强烈分享5本熬夜也要看完的好书！",
+            "desc": "极其强烈推荐5本爱不释手的好书，每本都是压箱底的神作。 它们不仅懂我，还给了我很多启发，是我成长路上必不可少的闲时陪伴。 现在分享给大家，希望也...",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/5078275-ff71f1e9dabfaa2b.jpg"
+        },{
+            "id": 2,
+            "title": "《两地书》：那么远，这么近",
+            "desc": "这世上有许多纯属偶然的事，譬如我与《两地书》的遇见。它像一粒飞来的石子，令我心中起了涟漪，在静夜中，这涟漪又无声地一圈圈扩散——化作思想的火花，...",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/3095874-06edb5465e2c818e.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 3,
+            "title": "百万字日更完成后，是什么感觉呢",
+            "desc": "没感觉。 感觉水平差的还很远。 比起码字狂人来说，简直不算不什么。 但对于我们每天最多写千把字的写手来说，百万字的确是一个里碑的意义转折点。 前..."
+            
+        }],
+        "recommedList":[{
+            "id": 1,
+            "Url": "assets/banner1.png"
+        },{
+            "id": 2,
+            "Url": "assets/banner2.png"
+        },{
+            "id": 3,
+            "Url": "assets/banner3.png"
+        },{
+            "id": 4,
+            "Url": "assets/banner4.png"
+        }],
+        "writerList":[{
+            "id": 1,
+            "name":"茶点故事",
+            "info": "写了547.6k字 · 15k喜欢",
+            "writerImgUrl":"assets/388e471.jpeg"
+        },{
+            "id": 2,
+            "name":"卢璐说",
+            "info": "写了1955.1k字 · 33.9k喜欢",
+            "writerImgUrl":"assets/189d69dd3.jpg"
+        },{
+            "id": 3,
+            "name":"念远怀人",
+            "info": "写了702.8k字 · 14.5k喜欢",
+            "writerImgUrl":"assets/21cb.jpg"
+        },{
+            "id": 4,
+            "name":"闫泽华",
+            "info": "写了254.1k字 · 4.7k喜欢",
+            "writerImgUrl":"assets/dc99c361412c.jpg"
+        },{
+            "id": 5,
+            "name":"木清琳",
+            "info": "写了290.7k字 · 3.3k喜欢",
+            "writerImgUrl":"assets/f4370c.jpg"
+        }]
+    }
+  }
